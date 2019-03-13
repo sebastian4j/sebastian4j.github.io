@@ -1,4 +1,8 @@
 ### [Enlace para ver repositorios](https://github.com/sebastian4j)
+### [Enlace a linkedin](https://www.linkedin.com/in/sebastian-avila-av)
+### [Enlace a twitter](https://twitter.com/zevaztyan)
+
+
 
 ## Acerca de los Repositorios:
 
