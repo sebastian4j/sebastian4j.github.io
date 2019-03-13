@@ -14,7 +14,7 @@ El contenido está principalmente dedicado a Java 😀, pueden ser pruebas que r
 
 ![mi foto](/img/mi.JPG?raw=true)
 
-Soy ingeniero informático especializado en Java (OCA Java SE 7, OCP Java SE 7, OCP Java SE 8, OCE WSD EE6, OCE EJB EE6), fan del Open Source, me gusta lo que hago, estoy constantemente estudiando arquitecturas, patrones de diseño, evolucion del desarrollo de software. Actualmente estoy enfocado en la nube ☁️, microservicios, Jakarta EE, MicroProfile, JPMS, Spring y todo el ecosistema Java 😉.  
+Soy ingeniero informático especializado en Java (OCA Java SE 7, OCP Java SE 7, OCP Java SE 8, OCE WSD EE6, OCE EJB EE6), fan del Open Source, me gusta lo que hago, estoy constantemente estudiando arquitecturas, patrones de diseño, evolución del desarrollo de software. Actualmente estoy enfocado en la nube ☁️, microservicios, Jakarta EE, MicroProfile, JPMS, Spring y todo el ecosistema Java 😉.  
   
 ***
 
