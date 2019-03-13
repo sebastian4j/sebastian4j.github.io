@@ -2,7 +2,7 @@
 ### [Enlace a linkedin](https://www.linkedin.com/in/sebastian-avila-av)
 ### [Enlace a twitter](https://twitter.com/zevaztyan)
 
-
+***
 
 ## Acerca de los Repositorios:
 
@@ -16,5 +16,6 @@ El contenido está principalmente dedicado a Java 😀, pueden ser pruebas que r
 
 Soy ingeniero informático especializado en Java (OCA Java SE 7, OCP Java SE 7, OCP Java SE 8, OCE WSD EE6, OCE EJB EE6), fan del Open Source, me gusta lo que hago, estoy constantemente estudiando arquitecturas, patrones de diseño, evolucion del desarrollo de software. Actualmente estoy enfocado en la nube ☁️, microservicios, Jakarta EE, MicroProfile, JPMS, Spring y todo el ecosistema Java 😉.  
   
+***
 
 
