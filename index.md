@@ -1,6 +1,7 @@
 ### [Enlace a los repositorios](https://github.com/sebastian4j)
 ### [Enlace a linkedin](https://www.linkedin.com/in/sebastian-avila-av)
 ### [Enlace a twitter](https://twitter.com/zevaztyan)
+### [Enlace al Blog](https://javasofias.blogspot.com/)
 
 ***
 
